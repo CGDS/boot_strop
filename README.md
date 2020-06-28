@@ -1,2 +1,2 @@
-# boot_strop
+# bootstrop
 razer sharp since 2020.04
